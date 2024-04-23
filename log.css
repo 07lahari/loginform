@@ -1,0 +1,39 @@
+@media screen and (max-width:900px) {
+
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ddcbf5;
+    padding: 30px;
+
+  }
+  center
+  {
+    background: #cbe6ea45;
+    width: 358%;
+    margin-top: -69px;
+    margin-left: -149px;
+  }
+}
+@media screen and (min-width:400px) and (max-width:599px) {
+  
+
+  body{
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #ddcbf5;
+      padding: 30px;
+  
+    }
+    center
+    {
+      background: #cbe6ea45;
+      width: 358%;
+      margin-top: -69px;
+      margin-left: -149px;
+    }
+  }
